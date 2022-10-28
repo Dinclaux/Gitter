@@ -2,7 +2,7 @@
 
 #Script to 
 
-
+system("git pull")
 # Reinitialize the session
 rm(list=ls(all=TRUE))
 
